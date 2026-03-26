@@ -19,6 +19,12 @@ The goal of this query is to:
 
 ---
 
+## Tools Used
+- PostgreSQL
+- DBeaver
+
+---
+
 ## SQL Query
 ```sql
 SELECT 
